@@ -1,0 +1,8 @@
+<?php
+// Script: teste99 github ////
+// Desenvolvedor: Lari Ripplinger ////
+// Data: 17/12/2015 ////
+// //////////////////////////////////////////////////////////////////////////////////////
+// esse arquivo foi criado somente no githbb02 as 1105
+// 
+?>
